@@ -1,0 +1,10 @@
+---
+title: "Clustering"
+---
+
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+
+ggplot(penguins, aes(x = body)
+```
